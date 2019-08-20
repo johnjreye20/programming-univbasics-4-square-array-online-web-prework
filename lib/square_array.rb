@@ -3,5 +3,5 @@ def square_array(array)
  array = ["Left", "Right", "Up", "Down"]
  
  while array [counter] do 
-   puts
+   puts array[counter]
 end
